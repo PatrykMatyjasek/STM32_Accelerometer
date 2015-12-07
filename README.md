@@ -8,3 +8,4 @@ HW Specs:
  - Cortex-M4 72 MHz
  - LSM303D Compass and Accelerometer
 
+More info will be added soon
